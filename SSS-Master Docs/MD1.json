@@ -1,1 +1,18 @@
-Test Master Doc
+[
+  {
+    "Name": "SSS - Master Doc Test",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/Srinika-QA/CloudLabs-QA-REPO/master/LabGuides/DP-203/01.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/Srinika-QA/CloudLabs-QA-REPO/master/LabGuides/DP-203/08.md",
+        "Order": 2
+      },
+               
+    ]
+  }
+]
