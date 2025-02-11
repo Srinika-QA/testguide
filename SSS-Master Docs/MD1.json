@@ -2,7 +2,7 @@
   {
     "Name": "SSS - Master Doc Test",
     "Language": "English",
-    "BaseURL": "https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure",
+    "BaseURL": "https://github.com/Srinika-QA/testguide/tree/main/SSS-Lab%20guides",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/Srinika-QA/testguide/refs/heads/main/SSS-Lab%20guides/SSS%201.md",
@@ -16,3 +16,4 @@
     ]
   }
 ]
+
