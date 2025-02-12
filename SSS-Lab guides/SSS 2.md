@@ -32,5 +32,38 @@ Image Syntax Test :
  
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
-
+aside {
+   border-left: 4px solid #509128;
+   padding-left: 12px;
+   font-weight: 300;
+   color: #434343;
+   text-indent: -2px;
+   align-items: center;
+   margin-top: 6px;
+   margin-bottom: 12px;
+   line-height: 22px;
+   font-size: 16px;
+   letter-spacing: 0px;
+}
+aside::before {
+   content: "💡 Tip";
+   font-style: normal;
+   margin-left: 2px;
+   color: #509128;
+   font-weight: 600;
+   font-size: 14px;
+   display: block;
+}
+}
+details > summary{
+    font-weight: 700;
+    font-size: 110%;
+    color: #0254EC;
+    padding: 24px 0px 24px 0px;
+}
+teams-button[aria-label="change vm 100% selected"] {
+display: none;
+}
+</style>
+ 
 
