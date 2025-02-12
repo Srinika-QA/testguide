@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=TYtcpdMelYA
 
 Test 
 
+<video width="300" height="200" controls loop="" muted="" autoplay="">
 <source src="https://www.youtube.com/watch?v=TYtcpdMelYA">
 
 
