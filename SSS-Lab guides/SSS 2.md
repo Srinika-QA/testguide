@@ -14,8 +14,7 @@ Inject Keys With Static Values : <br>
 <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" /> <br>
         //Output should include azure password+value+azure email+value without copy icon <br>
         
-Wiz :
-![Lab extension options](img/extension_request_options2.png)
+Image Syntax Test :
 
 ![Image Title](Images/image%20(88).png)
 
