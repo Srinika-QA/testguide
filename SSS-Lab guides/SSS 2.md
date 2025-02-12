@@ -8,7 +8,7 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 Inject Keys With Static Values : <br>
 <inject key="testKey2" value="StaticValue2" key="testkay1"  value="StaticValue1" /> <br>
-         //Output should include Key+value+key+value with copy icon <br>
+         //Output should include value+value with copy icon <br>
 <inject key="AzureAdUserPassword" value="StaticValue3" key="testkay2"  value="StaticValue2" /> <br>
         //Output should include azure password+value+key+value with copy icon <br>
 <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" /> <br>
@@ -16,3 +16,8 @@ Inject Keys With Static Values : <br>
         
 Wiz :
 ![Lab extension options](img/extension_request_options2.png)
+
+
+- For **Username**, enter <inject key="AzureAdUserEmail" enableCopy="true" />.
+
+- For **Password**, enter <inject key="AzureAdUserPassword" enableCopy="true" />.
