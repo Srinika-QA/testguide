@@ -46,4 +46,4 @@ Test
 <video width="300" height="200" controls loop="" muted="" autoplay="">
 <video src="https://www.youtube.com/watch?v=TYtcpdMelYA">
 
-!(Images/Tab%20status%20in%20split%20screen.mp4)
+![p](.Images/Tab%20status%20in%20split%20screen.mp4)
