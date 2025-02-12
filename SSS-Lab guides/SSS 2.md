@@ -1,6 +1,8 @@
 Inject Keys : 
 Tag 1 : <inject key="AzureAdUserEmail">
+
 Tag 2 : <inject key="AzureAdUserEmail" />
+
 Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 Inject Keys With Static Values : 
