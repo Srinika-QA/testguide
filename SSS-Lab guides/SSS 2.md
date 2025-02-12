@@ -30,3 +30,7 @@ Image Syntax Test :
 # Feedback
 
 As this is a new concept, we are looking for feedback. Anything you think can be improved please let us know on [Notion](https://www.notion.so/wizio/f9e7ee31bac441368956856e5a2d0221?v=c19b50b29381493ebda0e48051552337). 🙏
+
+
+
+In the **AWS** console choose **S3** and ensure you are in the **us-east-1** region. https://us-east-1.console.aws.amazon.com/s3/home?region=us-east-1#
