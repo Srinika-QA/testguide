@@ -34,3 +34,10 @@ As this is a new concept, we are looking for feedback. Anything you think can be
 
 
 In the **AWS** console choose **S3** and ensure you are in the **us-east-1** region. https://us-east-1.console.aws.amazon.com/s3/home?region=us-east-1#
+
+only link 
+https://www.youtube.com/watch?v=TYtcpdMelYA
+
+
+[video Title](https://www.youtube.com/watch?v=TYtcpdMelYA)
+
