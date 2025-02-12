@@ -17,6 +17,8 @@ Inject Keys With Static Values : <br>
 Wiz :
 ![Lab extension options](img/extension_request_options2.png)
 
+![SSS-Lab guides](Images/image(88).png)
+
 
 - For **Username**, enter <inject key="AzureAdUserEmail" enableCopy="true" />.
 
