@@ -1,12 +1,30 @@
+# Paragraph Test : 
+
+Once you have successfully registered using one of the available methods, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. Do note, your lab timer will start as soon as you launch the lab. So, if you plan to launch the lab at a later time, you can bookmark this URL and launch it later.
+To login to Azure, navigate to **Environment** tab, copy cloud user name <inject key="AzureAdUserEmail"></inject> and password <inject key="AzureAdUserPassword"></inject>
+
+
 # Inject Keys : 
 
-Tag 1 : <inject key="AzureAdUserEmail">
+Option 1 : <inject key="AzureAdUserEmail">
 
-Tag 2 : <inject key="AzureAdUserEmail" />
+Option 2 : <inject key="AzureAdUserEmail" />
 
-Tag 3 : <inject key="AzureAdUserEmail"></inject>
+Option 3 : <inject key="AzureAdUserEmail"></inject>
 
-// All the above tags have same output even though there is a change in syntax 
+Option 4 : <inject key="DeploymentID" enableCopy="false" />** 
+
+Option 5 : AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
+
+Option 6 : AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
+
+Option 7 : Deployment ID : <inject key="Deployment ID"></inject>
+
+Option 8 : Labvm Admin Username : <inject key="Labvm Admin Username"></inject>
+
+Option 9 : Labvm Admin Password : <inject key="Labvm Admin Password"></inject>
+
+Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 
 # Inject Keys with Default options : 
 
@@ -114,6 +132,17 @@ public class PrimeExample{
 
 
 4. code block with coloured content
+5. 
+
+# Color Content :
+
+<span style="color: green"> ->Navigate to https://admin.cloudlabs.ai/ and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted) </span>
+
+<span style="color: Blue"> ->Select your Tenant </span>
+
+<span style="color: Yellow"> ->Click on **On Demand** Labs from the left navigation pane. </span>
+
+<span style="color: Pink"> ->Click on **+ ADD ON DEMAND LAB** and fill up the required information. </span>
 
 
 # Emojis : 
