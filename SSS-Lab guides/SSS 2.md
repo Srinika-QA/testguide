@@ -1,4 +1,5 @@
 # Paragraph Test : 
+<br>
 
 Once you have successfully registered using one of the available methods, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. Do note, your lab timer will start as soon as you launch the lab. So, if you plan to launch the lab at a later time, you can bookmark this URL and launch it later.
 To login to Azure, navigate to **Environment** tab, copy cloud user name **<inject key="AzureAdUserEmail"></inject>** and password **<inject key="AzureAdUserPassword"></inject>**
@@ -6,7 +7,7 @@ To login to Azure, navigate to **Environment** tab, copy cloud user name **<inje
 >Azure Email <inject key="AzureAdUserEmail">
 
 # Inject Keys : 
-
+<br>
 Option 1 : <inject key="AzureAdUserEmail">
 
 Option 2 : <inject key="AzureAdUserEmail" />
@@ -28,7 +29,7 @@ Option 9 : Labvm Admin Password : <inject key="Labvm Admin Password"></inject>
 Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 
 # Inject Keys with Default options : 
-
+<br>
 <inject key="AzureAdUserEmail"  defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
 
 <inject key="**AzureAdUserEmail**" defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
@@ -43,7 +44,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 
 
 # Inject Keys With Static Values :
-
+<br>
 <inject key="testKey2" value="StaticValue2" key="testkay1"  value="StaticValue1" />  //Output should include value+value with copy icon
 
 <inject key="AzureAdUserPassword" value="StaticValue3" key="testkay2"  value="StaticValue2" />  //Output should include azure password+value+value with copy icon
@@ -51,7 +52,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" /> // Output should include azure password+value+azure email+value without copy icon 
 
 **Inject Keys with and without Copy icons :**
-
+<br>
    -> For **Username**, enter <inject key="AzureAdUserEmail" enableCopy="true" />.
 
    -> For **Password**, enter <inject key="AzureAdUserPassword" enableCopy="true" />.
@@ -62,7 +63,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 
 
 **Image Syntax Test :**
-
+<br>
 1. Image syntax for local repository image : 
 
   ![Local Image PNG Test](Images/Test%20Image%20for%20PNG.png)    //PNG Format 
@@ -85,8 +86,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 ![image](https://github.com/user-attachments/assets/d2fa89dd-3c39-4c01-aabc-6a3987a02d5d)   //Copy pasted a screen from Snagit 
 
 # Hyperlink Syntax :
-
-
+<br>
 1. Direct web URL :
 
 Passing a URL directly in the Lab guide. **Ex** : https://www.youtube.com/watch?v=TYtcpdMelYA 
@@ -102,7 +102,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2
 ```
 
 # Code block syntax :
-
+<br>
 1. Any sentence starts with space or Tab key shows as code block
 
          Example for code block using space or Tab key//
@@ -141,16 +141,20 @@ public class PrimeExample
 
 4. code block with coloured content
    ```
-   AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
-   ```
+   <span style="color: Blue">
+   <inject key="AzureAdUserEmail"></inject>
+   <inject key="AzureAdUserPassword"></inject>
+   </span>
+    ```
 
-5. odl_user_38925@nikunjgadhesariya.onmicrosoft.com</inject>
-	wrhg06EGZ*8d</inject>
-   Dep ID:</inject>
+5.  Test
+    ```
+    <inject key="AzureAdUserPassword" style="color:blue"></inject>
+    ```
 
 
 # Color Content :
-
+<br>
 <span style="color: green"> ->Navigate to https://admin.cloudlabs.ai/ and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted) </span>
 
 <span style="color: Blue"> ->Select your Tenant </span>
@@ -161,13 +165,14 @@ public class PrimeExample
 
 
 # Emojis : 
+<br>
 🙏
 
 👍✌️🎶🪶🪽🚫⛔🔇❓❗⬇️⬆️🔽➡️⬅️
 
 
 # GIF Trail : 
-
+<br>
 ![HappyMondayGIF](https://github.com/user-attachments/assets/da4d8630-48cf-43a2-a7c3-aa33b0c7edd5)
 
 // Right click, Open desired GIF, drag and drop here 
