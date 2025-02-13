@@ -39,20 +39,14 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
   ![Local WEBP Format](Images/Test%20WEBP%20format.webp)   // WEBP Format 
 
+  ![Local TIFF Format](Images/QA%20TIFF%20Img.tiff)   // TIFF Format 
+
 2. Image syntax for Web URL : 
          
  <img src ="https://www.slajobs.com/wp-content/uploads/2022/12/azure-training-in-chennai.png" width ="100", height ="100" >
 
-3. TIFF Image test : 
 
-   https://spektrasystems-my.sharepoint.com/:i:/p/murali_ponna/EXk4wDWqi9JJvh3gQfgSvtQB7sJ_aPInAZRCcYmPmLRT5g?e=NSwG0j
-
-4. PNG format image test :
-
-  \ https://people.math.sc.edu/Burkardt/data/tif/board.png
-  | https://people.math.sc.edu/Burkardt/data/tif/board.png
-
-**Hyperlink Syntax : **
+# Hyperlink Syntax :
 
 1. Direct web URL :
 
@@ -62,7 +56,18 @@ Passing a URL directly in the Lab guide. Ex : https://www.youtube.com/watch?v=TY
 
 [Click Here to check](https://www.notion.so/wizio/f9e7ee31bac441368956856e5a2d0221?v=c19b50b29381493ebda0e48051552337)      
 
-# Emojis 
+# Emojis : 
 🙏
+
+👍✌️🎶🪶🪽🚫⛔🔇❓❗⬇️⬆️🔽➡️⬅️
+
+
+![image](https://github.com/user-attachments/assets/d2fa89dd-3c39-4c01-aabc-6a3987a02d5d)   //Copy pasted a screen from Snagit 
+
+# GIF Trail : 
+
+![HappyMondayGIF](https://github.com/user-attachments/assets/da4d8630-48cf-43a2-a7c3-aa33b0c7edd5)
+
+file:///C:/Users/SambariSrinika/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/HappyMondayGIF.gif
 
 
