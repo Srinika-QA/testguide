@@ -31,15 +31,15 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 1. Image syntax for local repository image : 
 
-  - ![Local Image](Images/image%20(88).png)
+  ![Local Image](Images/image%20(88).png)
 
 2. Image syntax for Web URL : 
          
-  -> https://www.slajobs.com/wp-content/uploads/2022/12/azure-training-in-chennai.png
+  https://www.slajobs.com/wp-content/uploads/2022/12/azure-training-in-chennai.png
 
 3. TIFF Image test : 
 
-    https://spektrasystems-my.sharepoint.com/:i:/p/murali_ponna/EXk4wDWqi9JJvh3gQfgSvtQB7sJ_aPInAZRCcYmPmLRT5g?e=NSwG0j
+   https://spektrasystems-my.sharepoint.com/:i:/p/murali_ponna/EXk4wDWqi9JJvh3gQfgSvtQB7sJ_aPInAZRCcYmPmLRT5g?e=NSwG0j
 
 4. PNG format image test :
 
