@@ -31,9 +31,13 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 1. Image syntax for local repository image : 
 
-  ![Local Image](Images/image%20(88).png)  //PNG Format 
+  ![Local Image PNG Test](Images/Test%20Image%20for%20PNG.png)    //PNG Format 
 
-  // JPG Format 
+  ![Local JPG Format](Images/Test%20Image%20with%20JPG%20format.jpg)   // JPG Format 
+  
+  ![Local JPEG Format](Images/Test%20Image%20for%20JPEG.jpg)   // JPEG Format 
+
+  ![Local WEBP Format](Images/Test%20WEBP%20format.webp)   // WEBP Format 
 
 2. Image syntax for Web URL : 
          
