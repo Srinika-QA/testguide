@@ -50,15 +50,15 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
   ![Local JPG Format](Images/Test%20Image%20with%20JPG%20format.jpg)   // JPG Format 
   
-  ![Local JPEG Format](Images/Test%20Image%20for%20JPEG.jpg)   // JPEG Format 
+  ![Local JPEG Format](Images/Test%20Image%20for%20JPEG.jpg)   // JPEG Format //
 
-  ![Local WEBP Format](Images/Test%20WEBP%20format.webp)   // WEBP Format 
+  ![Local WEBP Format](Images/Test%20WEBP%20format.webp)   // WEBP Format //
 
-  ![Local TIFF Format](Images/QA%20TIFF%20Img.tiff)   // TIFF Format 
+  ![Local TIFF Format](Images/QA%20TIFF%20Img.tiff)   // TIFF Format //
 
 2. Image syntax for Web URL : 
          
- <img src ="https://www.slajobs.com/wp-content/uploads/2022/12/azure-training-in-chennai.png" width ="100", height ="100" >
+<img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "100" height ="500">
 
 3. Drag and Drop Image :
 
@@ -68,7 +68,7 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 1. Direct web URL :
 
-Passing a URL directly in the Lab guide. Ex : https://www.youtube.com/watch?v=TYtcpdMelYA 
+Passing a URL directly in the Lab guide. **Ex** : https://www.youtube.com/watch?v=TYtcpdMelYA 
 
 2. Adding a URL within a word. As if when you click on the underlined word, it navigates to the link associated to it
 
