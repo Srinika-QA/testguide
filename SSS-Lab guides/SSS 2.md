@@ -107,8 +107,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2
 
          Example for code block using space or Tab key//
    
-
-3. Code block using Backticks
+2. Code block using Backticks
 
 ```
 public class PrimeExample
@@ -135,9 +134,20 @@ public class PrimeExample
 ```
 3. Code block without copy icon
 
+```
+<inject key="DeploymentID" enableCopy="false" />** 
+
+```
 
 4. code block with coloured content
-5. 
+   ```
+   AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
+   ```
+
+5. odl_user_38925@nikunjgadhesariya.onmicrosoft.com</inject>
+	wrhg06EGZ*8d</inject>
+   Dep ID:</inject>
+
 
 # Color Content :
 
