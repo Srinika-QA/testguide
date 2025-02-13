@@ -58,7 +58,7 @@ Tag 3 : <inject key="AzureAdUserEmail"></inject>
 
 2. Image syntax for Web URL : 
          
-<img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "100" height ="500">
+<img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "300" height ="300">
 
 3. Drag and Drop Image :
 
@@ -80,6 +80,35 @@ Passing a URL directly in the Lab guide. **Ex** : https://www.youtube.com/watch?
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fnature&psig=AOvVaw06TzaQHiuxybkRlLJLvfxo&ust=1739343936597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiox56Hu4sDFQAAAAAdAAAAABAE
 ```
 
+# Code block syntax :
+
+1. Any sentence starts with space or Tab key shows as code block
+
+    Example for code block using space or Tab key
+
+2. Code block using Backticks
+
+```
+public class PrimeExample{    
+ public static void main(String args[]){    
+  int i,m=0,flag=0;      
+  int n=3;//it is the number to be checked    
+  m=n/2;      
+  if(n==0||n==1){  
+   System.out.println(n+" is not prime number");      
+  }else{  
+   for(i=2;i<=m;i++){      
+    if(n%i==0){      
+     System.out.println(n+" is not prime number");      
+     flag=1;      
+     break;      
+    }      
+   }      
+   if(flag==0)  { System.out.println(n+" is prime number"); }  
+  }//end of else  
+}    
+}   
+```
 
 # Emojis : 
 🙏
