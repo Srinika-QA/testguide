@@ -1,7 +1,7 @@
 # Paragraph Test : 
 
 Once you have successfully registered using one of the available methods, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. Do note, your lab timer will start as soon as you launch the lab. So, if you plan to launch the lab at a later time, you can bookmark this URL and launch it later.
-To login to Azure, navigate to **Environment** tab, copy cloud user name <inject key="AzureAdUserEmail"></inject> and password <inject key="AzureAdUserPassword"></inject>
+To login to Azure, navigate to **Environment** tab, copy cloud user name **<inject key="AzureAdUserEmail"></inject>** and password **<inject key="AzureAdUserPassword"></inject>**
 
 
 # Inject Keys : 
@@ -78,11 +78,13 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
          
 <img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "300" height ="300">
 
+
 3. Drag and Drop Image :
 
 ![image](https://github.com/user-attachments/assets/d2fa89dd-3c39-4c01-aabc-6a3987a02d5d)   //Copy pasted a screen from Snagit 
 
 # Hyperlink Syntax :
+
 
 1. Direct web URL :
 
@@ -108,8 +110,10 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2
 3. Code block using Backticks
 
 ```
-public class PrimeExample{    
- public static void main(String args[]){    
+public class PrimeExample
+{    
+ public static void main(String args[])
+{    
   int i,m=0,flag=0;      
   int n=3;//it is the number to be checked    
   m=n/2;      
