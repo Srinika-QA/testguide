@@ -84,9 +84,10 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2
 
 1. Any sentence starts with space or Tab key shows as code block
 
-    Example for code block using space or Tab key
+         Example for code block using space or Tab key//
+   
 
-2. Code block using Backticks
+3. Code block using Backticks
 
 ```
 public class PrimeExample{    
