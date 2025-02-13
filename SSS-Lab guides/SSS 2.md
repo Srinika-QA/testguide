@@ -110,6 +110,11 @@ public class PrimeExample{
 }    
 }   
 ```
+3. Code block without copy icon
+
+
+4. code block with coloured content
+
 
 # Emojis : 
 🙏
