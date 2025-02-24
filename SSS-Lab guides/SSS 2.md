@@ -199,3 +199,14 @@ Drag and drop test
 
 ![MuaKissGIF](https://github.com/user-attachments/assets/0d12cab7-387c-40cd-9c74-1ae5aa169de7)
 
+
+
+Image test 
+
+  ![Local WEBP Format](Images/Test%20WEBP%20format.webp)   // WEBP Format //
+
+  ![Local TIFF Format](Images/QA%20TIFF%20Img.tiff)   // TIFF Format //
+
+
+
+  <img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "500" height ="500">
