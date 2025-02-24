@@ -177,3 +177,25 @@ public class PrimeExample
 
 // Right click, Open desired GIF, drag and drop here 
 
+
+
+24022025
+
+```
+<inject key="DeploymentID" />**
+enableCopy="false"
+
+```
+
+GIF :
+copy test:
+ 
+
+file:///C:/Users/SambariSrinika/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/MuaKissGIF.gif
+
+
+Drag and drop test 
+
+
+![MuaKissGIF](https://github.com/user-attachments/assets/0d12cab7-387c-40cd-9c74-1ae5aa169de7)
+
