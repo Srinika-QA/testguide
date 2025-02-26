@@ -162,6 +162,16 @@ public class PrimeExample
    
    ```
    </Span>
+7. Code block using Git doc syntax
+   
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
 # Color Content :
 <br>
 <span style="color: green"> ->Navigate to https://admin.cloudlabs.ai/ and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted) </span>
@@ -253,25 +263,6 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 
 
 
-
-##MP changes : 
-
-<video width="600" height="400" controls>
-<source src=" https://www.youtube.com/watch?v=GaypXb8ZXtQ.mp4" type="video/mp4">
-</video>
-	
-	
-	
-<iframe src=" https://www.youtube.com/watch?v=0x04B5Gcobs" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-	
-	
-	
-	
-<iframe width="400" height="400" src=" https://www.youtube.com/watch?v=-XVg6nBmfg0" frameborder="0" allowfullscreen>
-
-
- 
-</iframe>![image](https://github.com/user-attachments/assets/baf24dbd-a1c5-4a83-ac9f-949afe1d80fe)
 
 
 **color code**
