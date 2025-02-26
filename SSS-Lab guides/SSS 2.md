@@ -141,8 +141,7 @@ public class PrimeExample
 
 4. code block with coloured content
    ```
-   <span style="color: Blue">
-   <inject key="AzureAdUserEmail"></inject>
+   <span style="color: Blue"><inject key="AzureAdUserEmail"></inject> 
    <inject key="AzureAdUserPassword"></inject>
    </span>
     ```
@@ -151,8 +150,10 @@ public class PrimeExample
     ```
     <inject key="AzureAdUserPassword" style="color:blue"></inject>
     ```
+6. Test color code for whole code block
 
-
+   	<span style="color: Blue">Test code block in color - code added using tab Key</Span>
+   
 # Color Content :
 <br>
 <span style="color: green"> ->Navigate to https://admin.cloudlabs.ai/ and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted) </span>
