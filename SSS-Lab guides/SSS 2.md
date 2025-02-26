@@ -218,7 +218,9 @@ Image test
 ##This is the YouTube embedded code
 
 <iframe width="640" height="360" src=" https://www.youtube.com/embed/6ysKXydT8xY" title="ROOFTOP LOUNGE - Cool Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjoigOXvOa4?si=AZ4LRs7EnNtyulK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
 ##Direct link of MP4 or .mov
 
 
@@ -239,3 +241,19 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 	
 ![image](https://github.com/user-attachments/assets/e19531d3-a3d5-4205-bf27-a445c208bd43)
 
+
+
+##MP changes : 
+
+<video width="600" height="400" controls>
+<source src=" https://www.youtube.com/watch?v=GaypXb8ZXtQ.mp4" type="video/mp4">
+</video>
+	
+	
+	
+<iframe src=" https://www.youtube.com/watch?v=0x04B5Gcobs" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+	
+	
+	
+	
+<iframe width="400" height="400" src=" https://www.youtube.com/watch?v=-XVg6nBmfg0" frameborder="0" allowfullscreen></iframe>![image](https://github.com/user-attachments/assets/baf24dbd-a1c5-4a83-ac9f-949afe1d80fe)
