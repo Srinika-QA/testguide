@@ -152,8 +152,12 @@ public class PrimeExample
     ```
 6. Test color code for whole code block
 
-   	<span style="color: Blue">Test code block in color - code added using tab Key</Span>
+   <span style="color: Blue">
+   ```
+   Test code block in color - code added using Backticks
    
+   ```
+   </Span>
 # Color Content :
 <br>
 <span style="color: green"> ->Navigate to https://admin.cloudlabs.ai/ and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted) </span>
