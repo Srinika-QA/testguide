@@ -210,3 +210,28 @@ Image test
 
 
   <img src="https://spektrasystems.com/wp-content/uploads/2021/02/20748047_909553532535214_5011335614256117284_o-1024x768-2-600x600.jpg" width = "500" height ="500">
+
+
+
+ # Video Test By SSS : 
+
+##This is the YouTube embedded code
+
+
+	<iframe width="640" height="360" src=" https://www.youtube.com/embed/6ysKXydT8xY" title="ROOFTOP LOUNGE - Cool Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	
+##Direct link of MP4 or .mov
+
+
+	https://file-examples.com/storage/fe1b07b09f67bcb9b96354c/2017/04/file_example_MP4_640_3MG.mp4
+ 
+##Another type : 
+	[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+	
+##Drag and Drop files :
+		
+	Syntax :
+	<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+	
+![image](https://github.com/user-attachments/assets/e19531d3-a3d5-4205-bf27-a445c208bd43)
+
