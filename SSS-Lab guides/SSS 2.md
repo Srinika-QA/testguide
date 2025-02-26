@@ -272,3 +272,19 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 
  
 </iframe>![image](https://github.com/user-attachments/assets/baf24dbd-a1c5-4a83-ac9f-949afe1d80fe)
+
+
+**color code**
+
+```bash
+ 
+<p style="color: red;">Red color QA Test.</p>
+ 
+<p style="color: blue;">Blue Color test.</p>
+ 
+</head>
+ 
+<p class="red-text">This is red text using a CSS class.</p>
+ 
+ 
+```
