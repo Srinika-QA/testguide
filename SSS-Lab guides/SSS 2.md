@@ -147,14 +147,18 @@ public class PrimeExample
     ```
 
 5.  Test
+   
     ```
     <inject key="AzureAdUserPassword" style="color:blue"></inject>
     ```
 6. Test color code for whole code block
 
    <span style="color: Blue">
+   
    ```
+
    Test code block in color - code added using Backticks
+
    
    ```
    </Span>
