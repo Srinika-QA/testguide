@@ -226,17 +226,19 @@ Image test
 
 https://file-examples.com/storage/fe1b07b09f67bcb9b96354c/2017/04/file_example_MP4_640_3MG.mp4
  
-##Another type : 
+##Another type : Displays as Image but upon click opens video in New tab
 
 
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 	
 ##Drag and Drop files :
 
 https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 
 
-##Syntax :
+##Syntax : with Video SRC param 
 
 <video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
 
@@ -256,4 +258,8 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 	
 	
 	
-<iframe width="400" height="400" src=" https://www.youtube.com/watch?v=-XVg6nBmfg0" frameborder="0" allowfullscreen></iframe>![image](https://github.com/user-attachments/assets/baf24dbd-a1c5-4a83-ac9f-949afe1d80fe)
+<iframe width="400" height="400" src=" https://www.youtube.com/watch?v=-XVg6nBmfg0" frameborder="0" allowfullscreen>
+
+
+ 
+</iframe>![image](https://github.com/user-attachments/assets/baf24dbd-a1c5-4a83-ac9f-949afe1d80fe)
