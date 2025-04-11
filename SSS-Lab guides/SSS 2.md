@@ -288,8 +288,9 @@ April 11th - SSS
 Test color code for whole code block
 
 
-   <span style="color: Blue"> Test code block in color - code added using Backticks </Span>
+<span style="color: Blue"> Test code block in color - code added using Backticks </Span>
 
-<span style="color: Red" test code >
+<span style="color: Red" test code >Red </span>
+
 
 
