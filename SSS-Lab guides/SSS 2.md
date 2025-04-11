@@ -151,7 +151,7 @@ public class PrimeExample
 5.  Test
    
     ```
-    <inject key="AzureAdUserPassword" style="color:blue"></inject>
+    <inject key="AzureAdUserPassword" style="color: Red"></inject>
     ```
 6. Test color code for whole code block
 
@@ -281,3 +281,16 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
  
  
 ```
+
+
+
+April 11th - SSS
+Test color code for whole code block
+
+```
+   <span style="color: Blue"> Test code block in color - code added using Backticks </Span>
+```
+
+<span style="color: Red" test code >
+
+
