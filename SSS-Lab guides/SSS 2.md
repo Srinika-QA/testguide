@@ -8,7 +8,8 @@ To login to Azure, navigate to **Environment** tab, copy cloud user name **<inje
 
 # Inject Keys : 
 <br>
-Option 1 : <inject key="AzureAdUserEmail">
+
+Test Option 1 : <inject key="AzureAdUserEmail">
 
 Option 2 : <inject key="AzureAdUserEmail" />
 
@@ -16,7 +17,7 @@ Option 3 : <inject key="AzureAdUserEmail"></inject>
 
 Option 4 : <inject key="DeploymentID" enableCopy="false" />** 
 
-Option 5 : AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
+5 - AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
 
 Option 6 : AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
 
@@ -42,6 +43,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 
 <inject key="" defaultvalue="">   // no output as Key and default values are blank 
 
+<inject key="keyname" value="-Dashboard" cloudname="Microsoft Azure" enableCopy="true" enableClickToPaste="false" defaultValue="old-user-123" />
 
 # Inject Keys With Static Values :
 <br>
