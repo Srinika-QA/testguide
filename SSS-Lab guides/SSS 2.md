@@ -15,39 +15,49 @@ Option 2 : <inject key="AzureAdUserEmail" />
 
 Option 3 : <inject key="AzureAdUserEmail"></inject>
 
-Option 4 : <inject key="DeploymentID" enableCopy="false" />** 
+Option 4 : <inject key="DeploymentID" enableCopy="false" />**    [Added deployment ID key here with no copy icon]
 
 Option 5 : AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
 
 Option 6 : AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
 
-Option 7 : Deployment ID : <inject key="Deployment ID"></inject>
+Option 7 : Deployment ID : <inject key="DeploymentID"></inject>    [Added deployment ID key here with copy icon]
 
-Option 8 : Labvm Admin Username : <inject key="Labvm Admin Username"></inject>
+Option 8 : Labvm Admin Username : <inject key="LabvmAdminUsername"></inject>  // LabvmAdminUsername
 
-Option 9 : Labvm Admin Password : <inject key="Labvm Admin Password"></inject>
+Option 9 : Labvm Admin Password : <inject key="LabvmAdminPassword"></inject>   // LabvmAdminPassword
 
-Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
+Option 10 : Labvm DNS Name : <inject key="LabvmDNSName"></inject>     // LabvmDNSName
 
+Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold
+
+Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2
 # Inject Keys with Default options : 
 <br>
-<inject key="AzureAdUserEmail"  defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
+
+<inject key="AzureAdUserEmail"  defaultvalue="Defaultemail@example.com">    ----// output shows Key value since its valid
+<br>
 
 <inject key="**AzureAdUserEmail**" defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
+<br>
 
 <inject key="Sample" defaultvalue="Defaultemail@example.com">     // output shows default value since key is invalid
+<br>
 
 <inject key="AzureAdUserEmail" defaultvalue="">     // output shows Key value since its valid  
+<br>
 
 <inject key="" defaultvalue="Defaultemail@example.com">      // output shows default value since key is blank
+<br>
 
 <inject key="" defaultvalue="">   // no output as Key and default values are blank 
+<br>
 
 <inject key="keyname" value="-Dashboard" cloudname="Microsoft Azure" enableCopy="true" enableClickToPaste="false" defaultValue="old-user-123" />
-
+<br>
 # Inject Keys With Static Values :
 <br>
-<inject key="testKey2" value="StaticValue2" key="testkay1"  value="StaticValue1" />  //Output should include value+value with copy icon
+<inject key="testKey2" value="StaticValue2" key="testkey1"  value="StaticValue1" />  //Output should include value+value with copy icon
 
 <inject key="AzureAdUserPassword" value="StaticValue3" key="testkay2"  value="StaticValue2" />  //Output should include azure password+value+value with copy icon
 
