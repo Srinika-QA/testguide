@@ -4,7 +4,7 @@
 Once you have successfully registered using one of the available methods, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. Do note, your lab timer will start as soon as you launch the lab. So, if you plan to launch the lab at a later time, you can bookmark this URL and launch it later.
 To login to Azure, navigate to **Environment** tab, copy cloud user name **<inject key="AzureAdUserEmail"></inject>** and password **<inject key="AzureAdUserPassword"></inject>**
 
->Azure Email <inject key="AzureAdUserEmail">
+>Azure Email : <inject key="AzureAdUserEmail">
 
 # Inject Keys : 
 <br>
@@ -32,6 +32,7 @@ Option 10 : Labvm DNS Name : <inject key="LabvmDNSName"></inject>     // LabvmDN
 Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold
 
 Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2
+
 # Inject Keys with Default options : 
 <br>
 
