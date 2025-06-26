@@ -17,7 +17,7 @@ Option 3 : <inject key="AzureAdUserEmail"></inject>
 
 Option 4 : <inject key="DeploymentID" enableCopy="false" />** 
 
-5 - AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
+Option 5 : AzureAdUserEmail : <inject key="AzureAdUserEmail"></inject>
 
 Option 6 : AzureAdUserPassword : <inject key="AzureAdUserPassword" style="color:blue"></inject>
 
