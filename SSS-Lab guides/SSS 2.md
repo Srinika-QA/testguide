@@ -305,12 +305,23 @@ _Test Italic content_
 
 <br>
 
+```
+code block by triple backticks
+```
+
+`
+single tick
+
+`
+
 ``
-code block by backticks
+double backticks
 ``
 
+<br>
 
- code block using space
+
+          code block using space
 
 	code block using tab
 
