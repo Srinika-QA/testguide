@@ -31,7 +31,7 @@ Option 10 : Labvm DNS Name : <inject key="LabvmDNSName"></inject>     // LabvmDN
 
 Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold
 
-Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2
+Option 12 : **<inject key="AzureAdUserEmail"></inject>**   username in bold part 2
 
 # Inject Keys with Default options : 
 <br>
