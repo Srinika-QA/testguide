@@ -299,7 +299,7 @@ August 26th - SSS
 
 Test content 
 
-**Test Bold content **
+**Test Bold content**
 
 _Test Italic content_
 
