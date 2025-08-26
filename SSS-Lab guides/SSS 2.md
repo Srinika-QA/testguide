@@ -297,14 +297,6 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 
 August 26th - SSS
 
-
-
-**Test Bold content**
-
-_Test Italic content_
-
-<br>
-
 ```
 code block by triple backticks
 ```
