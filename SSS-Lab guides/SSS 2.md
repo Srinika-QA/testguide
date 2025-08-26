@@ -297,7 +297,7 @@ https://github.com/user-attachments/assets/77fa16d0-c9d8-4aec-b333-8a7ff2d7e3f6
 
 August 26th - SSS
 
-Test content 
+
 
 **Test Bold content**
 
@@ -305,9 +305,12 @@ _Test Italic content_
 
 <br>
 
->Test within as a Note
+``
+code block by backticks
+``
 
-Test color code for whole code block
-<span style="color: Blue"> Test color content - code added using Backticks </Span>
 
-<span style="color: Red" test code >Red color content </span>
+ code block using space
+
+	code block using tab
+
