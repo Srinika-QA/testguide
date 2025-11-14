@@ -7,12 +7,12 @@
       {
         "RawFilePath": "https://raw.githubusercontent.com/Srinika-QA/testguide/refs/heads/main/SSS-Lab%20guides/SSS%201.md",
         "Order": 1
-       // "PageDuration": 10
+     
       },
             {
         "RawFilePath": "https://raw.githubusercontent.com/Srinika-QA/testguide/refs/heads/main/SSS-Lab%20guides/SSS%202.md",
         "Order": 2
-       // "PageDuration": 20
+      
       },
                
     ]
