@@ -1,4 +1,4 @@
-# Paragraph Test : 
+# Paragraph Test : ######
 <br>
 
 Once you have successfully registered using one of the available methods, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. Do note, your lab timer will start as soon as you launch the lab. So, if you plan to launch the lab at a later time, you can bookmark this URL and launch it later.
