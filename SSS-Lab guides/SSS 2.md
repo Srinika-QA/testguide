@@ -345,6 +345,6 @@ Code block test without any space/Tab
 
 <pre>
 Line 1
-    Line 2 (indented)
+    Line 2 (indented-rename)
 Line 3
 </pre>
